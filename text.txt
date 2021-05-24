@@ -1,0 +1,14 @@
+jvr:
+virtual machine make in your local machine.
+when jvm run...it consume ram(needed) and create a virtual machine (virtual computer)
+why??
+it main key of java.
+it is secure from another source.
+jvm run bytecode.
+jvm is dependent.
+
+
+
+jvm provide secureity.
+
+
